@@ -9,5 +9,6 @@ npm install puppeteer
 
 Step 2: Enter your linked in username and password in config.js file
 
-step 3: run this command and that's all now all of your connection requests are accepted automatically.
+Step 3: run this command and that's all now all of your connection requests are accepted automatically.
+node LinkedInAccept.js --url= "https://in.linkedin.com/home" --config = "config.json" 
 
